@@ -1,0 +1,3 @@
+[submodule "modules/AdvancedSearchPlus"]
+	path = modules/AdvancedSearchPlus
+	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus.git
