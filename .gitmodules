@@ -1,3 +1,42 @@
 [submodule "modules/AdvancedSearchPlus"]
 	path = modules/AdvancedSearchPlus
 	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus.git
+[submodule "modules/AnalyticsSnippet"]
+	path = modules/AnalyticsSnippet
+	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet
+[submodule "modules/AnalyticsSnippetPiwik"]
+	path = modules/AnalyticsSnippetPiwik
+	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippetPiwik.git
+[submodule "modules/BulkCheck"]
+	path = modules/BulkCheck
+	url = https://github.com/Daniel-KM/Omeka-S-module-BulkCheck.git
+[submodule "modules/Collecting"]
+	path = modules/Collecting
+	url = https://github.com/DHBern/Collecting.git
+[submodule "modules/CSVImport"]
+	path = modules/CSVImport
+	url = https://github.com/omeka-s-modules/CSVImport.git
+[submodule "modules/CustomVocab"]
+	path = modules/CustomVocab
+	url = https://github.com/omeka-s-modules/CustomVocab.git
+[submodule "modules/EasyInstall"]
+	path = modules/EasyInstall
+	url = https://github.com/Daniel-KM/Omeka-S-module-EasyInstall.git
+[submodule "modules/FileSideload"]
+	path = modules/FileSideload
+	url = https://github.com/omeka-s-modules/FileSideload.git
+[submodule "modules/Generic"]
+	path = modules/Generic
+	url = https://github.com/Daniel-KM/Omeka-S-module-Generic.git
+[submodule "modules/HideProperties"]
+	path = modules/HideProperties
+	url = https://github.com/zerocrates/HideProperties.git
+[submodule "modules/jQueryUI"]
+	path = modules/jQueryUI
+	url = https://github.com/biblibre/omeka-s-module-jQueryUI.git
+[submodule "modules/Lockout"]
+	path = modules/Lockout
+	url = https://github.com/Daniel-KM/Omeka-S-module-Lockout.git
+[submodule "modules/Log"]
+	path = modules/Log
+	url = https://github.com/Daniel-KM/Omeka-S-module-Log.git
