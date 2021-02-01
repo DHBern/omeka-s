@@ -70,3 +70,6 @@
 [submodule "modules/ZoteroImport"]
 	path = modules/ZoteroImport
 	url = https://github.com/omeka-s-modules/ZoteroImport.git
+[submodule "themes/corona-memory"]
+	path = themes/corona-memory
+	url = https://github.com/DHBern/corona-memory
