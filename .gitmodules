@@ -61,3 +61,12 @@
 [submodule "modules/Search"]
 	path = modules/Search
 	url = https://github.com/DHBern/Omeka-S-module-Search.git
+[submodule "modules/Sharing"]
+	path = modules/Sharing
+	url = https://github.com/omeka-s-modules/Sharing/
+[submodule "modules/Translations"]
+	path = modules/Translations
+	url = https://github.com/Daniel-KM/Omeka-S-module-Translations.git
+[submodule "modules/ZoteroImport"]
+	path = modules/ZoteroImport
+	url = https://github.com/omeka-s-modules/ZoteroImport.git
