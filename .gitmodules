@@ -40,3 +40,24 @@
 [submodule "modules/Log"]
 	path = modules/Log
 	url = https://github.com/Daniel-KM/Omeka-S-module-Log.git
+[submodule "modules/Mapping"]
+	path = modules/Mapping
+	url = https://github.com/DHBern/Mapping
+[submodule "modules/NetworkMap"]
+	path = modules/NetworkMap
+	url = https://github.com/coreytegeler/omeka-s-module-NetworkMap.git
+[submodule "modules/Next"]
+	path = modules/Next
+	url = https://gitlab.com/Daniel-KM/Omeka-S-module-Next.git
+[submodule "modules/NumericDataTypes"]
+	path = modules/NumericDataTypes
+	url = https://github.com/omeka-s-modules/NumericDataTypes.git
+[submodule "modules/PdfEmbed"]
+	path = modules/PdfEmbed
+	url = https://github.com/zerocrates/PdfEmbedS.git
+[submodule "modules/Reference"]
+	path = modules/Reference
+	url = https://gitlab.com/Daniel-KM/Omeka-S-module-Reference.git
+[submodule "modules/Search"]
+	path = modules/Search
+	url = https://github.com/DHBern/Omeka-S-module-Search.git
