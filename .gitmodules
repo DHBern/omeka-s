@@ -1,6 +1,6 @@
 [submodule "modules/AdvancedSearchPlus"]
 	path = modules/AdvancedSearchPlus
-	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus.git
+	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus
 [submodule "modules/AnalyticsSnippet"]
 	path = modules/AnalyticsSnippet
 	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet
@@ -48,7 +48,7 @@
 	url = https://github.com/coreytegeler/omeka-s-module-NetworkMap.git
 [submodule "modules/Next"]
 	path = modules/Next
-	url = https://gitlab.com/Daniel-KM/Omeka-S-module-Next.git
+	url = https://github.com/Daniel-KM/Omeka-S-module-Next
 [submodule "modules/NumericDataTypes"]
 	path = modules/NumericDataTypes
 	url = https://github.com/omeka-s-modules/NumericDataTypes.git
@@ -57,7 +57,7 @@
 	url = https://github.com/zerocrates/PdfEmbedS.git
 [submodule "modules/Reference"]
 	path = modules/Reference
-	url = https://gitlab.com/Daniel-KM/Omeka-S-module-Reference.git
+	url = https://github.com/Daniel-KM/Omeka-S-module-Reference
 [submodule "modules/Search"]
 	path = modules/Search
 	url = https://github.com/DHBern/Omeka-S-module-Search.git
