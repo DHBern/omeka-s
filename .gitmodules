@@ -25,9 +25,6 @@
 [submodule "modules/HideProperties"]
 	path = modules/HideProperties
 	url = https://github.com/zerocrates/HideProperties.git
-[submodule "modules/jQueryUI"]
-	path = modules/jQueryUI
-	url = https://github.com/biblibre/omeka-s-module-jQueryUI.git
 [submodule "modules/Lockout"]
 	path = modules/Lockout
 	url = https://github.com/Daniel-KM/Omeka-S-module-Lockout.git
@@ -49,27 +46,30 @@
 [submodule "modules/PdfEmbed"]
 	path = modules/PdfEmbed
 	url = https://github.com/zerocrates/PdfEmbedS.git
-[submodule "modules/Reference"]
-	path = modules/Reference
-	url = https://github.com/Daniel-KM/Omeka-S-module-Reference
-[submodule "modules/Search"]
-	path = modules/Search
-	url = https://github.com/DHBern/Omeka-S-module-Search.git
-[submodule "modules/Sharing"]
-	path = modules/Sharing
-	url = https://github.com/omeka-s-modules/Sharing/
-[submodule "modules/Translations"]
-	path = modules/Translations
-	url = https://github.com/Daniel-KM/Omeka-S-module-Translations.git
-[submodule "modules/ZoteroImport"]
-	path = modules/ZoteroImport
-	url = https://github.com/omeka-s-modules/ZoteroImport.git
-[submodule "themes/corona-memory"]
-	path = themes/corona-memory
-	url = https://github.com/DHBern/corona-memory
 [submodule "modules/AnalyticsSnippet"]
 	path = modules/AnalyticsSnippet
 	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet
 [submodule "modules/AdvancedSearchPlus"]
 	path = modules/AdvancedSearchPlus
 	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus/
+[submodule "modules/Reference"]
+	path = modules/Reference
+	url = https://github.com/Daniel-KM/Omeka-S-module-Reference
+[submodule "modules/Search"]
+	path = modules/Search
+	url = https://github.com/DHBern/Omeka-S-module-Search
+[submodule "modules/Sharing"]
+	path = modules/Sharing
+	url = https://github.com/omeka-s-modules/Sharing/
+[submodule "modules/Translations"]
+	path = modules/Translations
+	url = https://github.com/Daniel-KM/Omeka-S-module-Translations/
+[submodule "themes/corona-memory"]
+	path = themes/corona-memory
+	url = https://github.com/DHBern/corona-memory
+[submodule "modules/jQueryUI"]
+	path = modules/jQueryUI
+	url = https://github.com/biblibre/omeka-s-module-jQueryUI
+[submodule "modules/ZoteroImport"]
+	path = modules/ZoteroImport
+	url = https://github.com/omeka-s-modules/ZoteroImport.git
