@@ -1,9 +1,3 @@
-[submodule "modules/AdvancedSearchPlus"]
-	path = modules/AdvancedSearchPlus
-	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus
-[submodule "modules/AnalyticsSnippet"]
-	path = modules/AnalyticsSnippet
-	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet
 [submodule "modules/AnalyticsSnippetPiwik"]
 	path = modules/AnalyticsSnippetPiwik
 	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippetPiwik.git
@@ -73,3 +67,9 @@
 [submodule "themes/corona-memory"]
 	path = themes/corona-memory
 	url = https://github.com/DHBern/corona-memory
+[submodule "modules/AnalyticsSnippet"]
+	path = modules/AnalyticsSnippet
+	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippet
+[submodule "modules/AdvancedSearchPlus"]
+	path = modules/AdvancedSearchPlus
+	url = https://github.com/Daniel-KM/Omeka-S-module-AdvancedSearchPlus/
