@@ -1,6 +1,3 @@
-[submodule "modules/AnalyticsSnippetPiwik"]
-	path = modules/AnalyticsSnippetPiwik
-	url = https://github.com/Daniel-KM/Omeka-S-module-AnalyticsSnippetPiwik.git
 [submodule "modules/BulkCheck"]
 	path = modules/BulkCheck
 	url = https://github.com/Daniel-KM/Omeka-S-module-BulkCheck.git
